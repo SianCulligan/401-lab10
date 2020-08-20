@@ -25,7 +25,7 @@
   "homepage": "https://github.com/SianCulligan/401-lab10#readme",
   "dependencies": {
     "@code-fellows/supergoose": "^1.0.2",
-    "bcrypt": "^4.0.1",
+    "bcrypt": "^5.0.0",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express-swagger-generator": "^1.1.17",
